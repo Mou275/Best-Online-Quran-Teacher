@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://best-online-quran-teacher.vercel.app/sitemap.xml
